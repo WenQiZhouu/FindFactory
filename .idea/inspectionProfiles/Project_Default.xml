@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="scipy" />
+          <option value="datasets" />
+          <option value="pandas" />
+          <option value="scikit-learn" />
+          <option value="prettytable" />
+          <option value="gradio" />
+          <option value="imageio" />
+          <option value="joblib" />
+          <option value="matplotlib" />
+          <option value="mmcv" />
+          <option value="mmcv_full" />
+          <option value="numpy" />
+          <option value="omegaconf" />
+          <option value="opencv_python" />
+          <option value="Pillow" />
+          <option value="tifffile" />
+          <option value="timm" />
+          <option value="tqdm" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
