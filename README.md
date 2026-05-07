@@ -97,7 +97,7 @@
 <br>
 
 <div align="center">
-  <img src="./assets/version1_05.png" alt="工作流可视化" width="800">
+  <img src="./assets/version2_05.png" alt="工作流可视化" width="800">
   <br>
   <sub><b>图注：工作流可视化，加入视觉模型分析功能</b></sub>
 </div>
